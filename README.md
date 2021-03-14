@@ -1,9 +1,9 @@
-### salut tout le mooooonde 👋
+### Salut tout le mooooonde 👋
 
 <!--
 **JgameDevH/JgameDevH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ça va ?
 
 - 🔭 Je travaille actuellement sur un bot discord et un selfbot (tout voir [ici](https://github.com/AnonyBotDev/)).
 - 🌱 J'apprends actuellement le javascript.
