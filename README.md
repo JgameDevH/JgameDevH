@@ -1,14 +1,12 @@
 ### Salut tout le mooooonde 👋
 
-<!--
-**JgameDevH/JgameDevH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Ça va ?
 
 - 🔭 Je travaille actuellement sur un bot discord et un selfbot (tout voir [ici](https://github.com/AnonyBotDev/)).
 - 🌱 J'apprends actuellement le javascript.
-- 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python.
--->
+- 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python me mp discord: NomCustom (Jgame)#3555.
+--> Mes stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JgameDevH&show_icons=true&theme=jolly&count_private=true"/>
 
