@@ -5,7 +5,7 @@
 
 - 🔭 Je travaille actuellement sur un bot discord et un selfbot (tout voir [ici](https://github.com/AnonyBotDev/)).
 - 🌱 J'apprends actuellement le javascript.
-- 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python me mp discord: NomCustom (Jgame)#3555.
+- 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python me mp discord: NomCustom#3555.
 
 --> Mes stats:
 
