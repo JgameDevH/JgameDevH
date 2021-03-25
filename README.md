@@ -3,7 +3,7 @@
 
 Ça va ?
 
-- 🔭 Je travaille actuellement sur un bot discord et un selfbot (tout voir [ici](https://github.com/AnonyBotDev/)).
+- 🔭 Je travaille actuellement sur un checker de page web (tout voir [ici](https://github.com/AnonyBotDev/)).
 - 🌱 J'apprends actuellement le javascript.
 - 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python me mp discord: NomCustom#3555.
 
