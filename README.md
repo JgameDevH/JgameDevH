@@ -3,9 +3,9 @@
 
 Ça va ?
 
-- 🔭 Je travaille actuellement sur un checker de page web (tout voir [ici](https://github.com/AnonyBotDev/)).
+- 🔭 Je travaille actuellement sur un MEE0 et ma team de développeur  (La team [ici](https://github.com/AnonyBotDev/)).
 - 🌱 J'apprends actuellement le javascript.
-- 👯 J'essaie de trouver quelqu'un pour collaborer avec notre team sur une discord api wrapper pour python me mp discord: NomCustom#3555.
+- 👯 J'essaie de trouver quelqu'un pour nous aider à faire MEE0 (me mp discord: NomCustom#3555).
 
 --> Mes stats:
 
