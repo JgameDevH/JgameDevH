@@ -9,9 +9,9 @@
 
 --> Mes stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JgameDevH&show_icons=true&theme=jolly&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NomCustom&show_icons=true&theme=jolly&count_private=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JgameDevH&layout=compact&theme=jolly&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomCustom&layout=compact&theme=jolly&count_private=true"/>
 
 
 
