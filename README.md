@@ -3,9 +3,9 @@
 
 Ça va ?
 
-- 🔭 Je travaille actuellement sur un MEE0 et ma team de développeur  (La team [ici](https://github.com/AnonyBotDev/)).
-- 🌱 J'apprends actuellement le javascript.
-- 👯 J'essaie de trouver quelqu'un pour nous aider à faire MEE0 (me mp discord: NomCustom#3555).
+>- 🔭 Je travaille actuellement sur un MEE0 et ma team de développeur  (La team [ici](https://github.com/AnonyBotDev/)).
+>- 🌱 J'apprends actuellement le javascript.
+>- 👯 J'essaie de trouver quelqu'un pour nous aider à faire MEE0 (me mp discord: NomCustom#7460).
 
 --> Mes stats:
 
